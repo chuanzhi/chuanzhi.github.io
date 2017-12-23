@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://chuanzhi.github.io
+url: http://www.lichuanzhi.com
 date_format: "ordinal"
 title: 传智博客
 subtitle: "有态度的码农"
