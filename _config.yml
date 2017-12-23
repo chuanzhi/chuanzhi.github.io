@@ -5,7 +5,7 @@ baseurl:
 url: https://chuanzhi.github.io
 date_format: "ordinal"
 title: 传智博客
-subtitle: "打码改变人生"
+subtitle: "有态度的码农"
 description: "李传智的个人博客"
 keywords: 传智博客, ChuanZhi, Colbert
 timezone: Asia/Shanghai
@@ -88,17 +88,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username: chuanzhi
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: chuanzhi
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 36f787d7e080a90b0e93
+        client_secret: 8db78d03d4a5c1117f5451390ac2868cbeb190ad
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: chuanzhi
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
