@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://chuanzhi.org
 date_format: "ordinal"
-title: 码志
+title: 传智博客
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "李传智的个人博客"
+keywords: 传智博客, ChuanZhi, Colbert
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: ChuanZhi
+organization: 
+organization_url: 
+github_username: chuanzhi
+location: TianJin, China
+email: chuanzhigo@gmail.com
 
 # ---------------- #
 #    Navigation    #
