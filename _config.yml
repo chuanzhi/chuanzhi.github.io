@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://chuanzhi.org
+url: https://chuanzhi.github.io/
 date_format: "ordinal"
 title: 传智博客
 subtitle: "打码改变人生"
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: chuanzhi/chuanzhi.github.io
 
 # ---------------- #
 #      Comments    #
