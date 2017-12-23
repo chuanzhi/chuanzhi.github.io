@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 有态度的码农
+keywords: ChuanZhi, 传智
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是李传智，做一个有态度的码农。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+编程也是一项艺术，努力把每一个作品做到最好。
 
 ## 联系
 
